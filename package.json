@@ -1,0 +1,23 @@
+{
+  "name": "bizarre-bazaar",
+  "version": "1.0.0",
+  "description": "A discord bot for listing items up for sale in a community.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cehster/bizarre-bazaar.git"
+  },
+  "author": "Chris Ehster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cehster/bizarre-bazaar/issues"
+  },
+  "homepage": "https://github.com/cehster/bizarre-bazaar#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
